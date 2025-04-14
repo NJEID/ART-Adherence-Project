@@ -142,10 +142,12 @@ Meru University of Science and Technology
 
 
 
-📧 Email: dancunngugi408@gmail.com
-🔗 LinkedIn: linkedin.com/in/dancun-ngugi-a87486263
-🐙 GitHub: github.com/NJEID
-📊 Kaggle: kaggle.com/dancunngugi
+📧 Email: dancunngugi408@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dancun-ngugi-a87486263)  
+🐙 [GitHub](https://github.com/NJEID)  
+📊 [Kaggle](https://www.kaggle.com/dancunngugi)  
+
+---
 
 
 🙏 Acknowledgment
