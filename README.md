@@ -1,4 +1,3 @@
-
 # 💊 ART Adherence Prediction for Kenyan Adolescents  
 *Using Synthetic Data, Clinical Reasoning & Machine Learning*
 
@@ -104,18 +103,18 @@ Example use:
 
 ## 🧠 Sample Prediction (via GUI)
 
-```
+```text
 Input:
-Age: 16
-CD4 Count: 900
-Viral Load: 450
-Treatment Duration: 14 months
-Awareness: Yes
-Support: Yes
-Suppression: Suppressed
+Age: 16  
+CD4 Count: 900  
+Viral Load: 450  
+Treatment Duration: 14 months  
+Awareness: Yes  
+Support: Yes  
+Suppression: Suppressed  
 
 🔍 Output:
-🟢 Adherent
+🟢 Adherent  
 
 ✅ Strengths:
 - Strong immune recovery (CD4 ≥ 500)
@@ -124,13 +123,7 @@ Suppression: Suppressed
 
 ⚠️ Weaknesses:
 - None identified
-```
 
----
-
-## 📁 Files
-
-```
 ART-Adherence-Project/
 │
 ├── art_adherence_data.csv
@@ -141,24 +134,23 @@ ART-Adherence-Project/
 ├── feature_columns.csv
 ├── app.py
 └── README.md  👈 (this file)
-```
 
----
 
-## 👤 Author
+👤 Author
+Dancun Ngugi
+Final Year Data Science Student
+Meru University of Science and Technology
 
-**Dancun Ngugi**  
-Final Year Data Science Student  
-Meru University of Science and Technology  
+
 
 📧 Email: dancunngugi408@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/dancun-ngugi-a87486263)  
 🐙 [GitHub](https://github.com/NJEID)  
 📊 [Kaggle](https://www.kaggle.com/dancunngugi)  
 
----
-
-## 🙏 Acknowledgment
 
 This project is part of my final year capstone and is inspired by real-world gaps in adolescent HIV care.  
 Special thanks to my university lecturers and mentors who guided me through this journey.
+
+🙏 Acknowledgment
+This project is part of my final year capstone and is inspired by real-world gaps in adolescent HIV care. Special thanks to my university lecturers and mentors who guided me through this journey.
