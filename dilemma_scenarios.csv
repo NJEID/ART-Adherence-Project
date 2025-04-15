@@ -1,0 +1,6 @@
+Awareness_Status,Support_Awareness_Interaction,Peer_Support,CD4_Count,Viral_Load,Treatment_Duration,Treatment_Complexity_Score,Location_Distance_Interaction,Gender_Male,Location_Urban,Side_Effects_Severe,Age_Group_14-16,Age_Group_17-19,Viral_Suppression_Status_Unsuppressed
+0,0,0,220,98000,3,1,129.99,1,0,1,0,1,1
+1,0,0,220,98000,3,1,129.99,1,0,1,0,1,1
+1,1,1,900,90000,24,1,5.0,0,1,0,1,0,1
+0,0,0,900,90000,24,1,5.0,0,1,0,1,0,1
+0,0,0,1000,600,4,4,120.0,1,0,1,0,1,0
